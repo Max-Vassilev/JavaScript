@@ -6,6 +6,6 @@ Here is an example of an exercise with DOM events. You can save a song, give it 
 
 <img width="770" alt="image" src="https://user-images.githubusercontent.com/106106321/230153154-f27116c0-bca3-4f41-9d54-c2c8374f83bb.png">
 
-<img width="782" alt="image" src="https://user-images.githubusercontent.com/106106321/230153678-80b3173f-1cbd-45b5-ab62-7792d57a65ef.png">
+<img width="723" alt="image" src="https://user-images.githubusercontent.com/106106321/230154165-5b2a69af-b107-4fd6-a8c8-1039c702d21f.png">
 
 
