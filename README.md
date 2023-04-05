@@ -10,11 +10,14 @@ Here is an example of an exercise with DOM events. You can save a song, give it 
 
 
 Here is an example of a task with HTTP requests and CRUD operations using JS:
-<img width="818" alt="image" src="https://user-images.githubusercontent.com/106106321/230155584-c467758b-9ab3-4dba-ad23-e0929f541796.png">
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/106106321/230155584-c467758b-9ab3-4dba-ad23-e0929f541796.png">
 
 
 - "GET" request
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/106106321/230155185-ec869bb7-63a1-46e2-8187-43cd5d2b3f2f.png">
+
+- "POST" request
+<img width="826" alt="image" src="https://user-images.githubusercontent.com/106106321/230156005-9232d261-5f78-48e0-b5e9-7a69b6a49b3f.png">
 
 - "FETCH" request
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/106106321/230155391-41e36780-1df2-461c-adfb-ddb713f9f003.png">
