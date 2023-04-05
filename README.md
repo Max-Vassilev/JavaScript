@@ -22,3 +22,7 @@ Here is an example of a task with HTTP requests and CRUD operations using JS:
 - "FETCH" request
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/106106321/230155391-41e36780-1df2-461c-adfb-ddb713f9f003.png">
 
+- "DELETE" request
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/106106321/230156557-539d48d8-ef8e-4f4d-8e6d-bd7920c56273.png">
+
+
