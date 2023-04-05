@@ -6,3 +6,6 @@ Here is a good example of an exercise with DOM events:
 
 <img width="770" alt="image" src="https://user-images.githubusercontent.com/106106321/230153154-f27116c0-bca3-4f41-9d54-c2c8374f83bb.png">
 
+<img width="782" alt="image" src="https://user-images.githubusercontent.com/106106321/230153678-80b3173f-1cbd-45b5-ab62-7792d57a65ef.png">
+
+
