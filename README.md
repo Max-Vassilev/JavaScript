@@ -17,7 +17,7 @@ Here is an example of a task with HTTP requests and CRUD operations using JS:
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/106106321/230155185-ec869bb7-63a1-46e2-8187-43cd5d2b3f2f.png">
 
 - "POST" request
-<img width="826" alt="image" src="https://user-images.githubusercontent.com/106106321/230156005-9232d261-5f78-48e0-b5e9-7a69b6a49b3f.png">
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/106106321/230156191-d444749c-b420-46f6-a5b1-5565bbfc9f65.png">
 
 - "FETCH" request
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/106106321/230155391-41e36780-1df2-461c-adfb-ddb713f9f003.png">
